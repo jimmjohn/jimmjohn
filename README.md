@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Jim M John
 Researcher in High Energy Physics.
-Passion for applying machine learning (ML) techniques to advance research goals.
+Passion for applying machine learning (ML) techniques to advance HEP research.
  
 <!--
 **jimmjohn/jimmjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
